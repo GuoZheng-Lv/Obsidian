@@ -1,0 +1,7 @@
+D:\网页\教学\js\课程\闫岐\网课\课程\12lesson-two-express
+vue基础    网课vue-class绑定
+vue.js文档   Data Property 和方法
+创建 Vue-cli脚手架 vue create myApp
+18-生命周期
+
+
